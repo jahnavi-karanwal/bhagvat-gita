@@ -1,0 +1,25 @@
+# Vector database
+data/vector_store/
+
+# Chroma
+chroma/
+*.sqlite3
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.venv/
+.env
+
+
+
+data/vector_store/
+notebook/gita_db/
+
+*.sqlite3
+.venv/
+__pycache__/
+.ipynb_checkpoints/

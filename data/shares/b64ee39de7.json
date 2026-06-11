@@ -1,0 +1,9 @@
+{
+  "token": "b64ee39de7",
+  "question": "I feel anxious—what does the Gita advise?",
+  "answer": "Do your duty with steadiness and surrender the results.",
+  "created_ts_ms": 1778001126645,
+  "meta": {
+    "surface": "cli-smoke"
+  }
+}

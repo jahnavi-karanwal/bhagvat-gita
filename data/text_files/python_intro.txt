@@ -1,0 +1,10 @@
+ Python is a high-level, general-purpose programming language created by Guido van Rossum and first released in 1991. It is widely celebrated for its simplicity, readability, and versatile ecosystem, making it a top choice for beginners and professionals alike in 2026. 
+W3Schools
+W3Schools
+ +2
+Core Characteristics
+Simple & Readable: Its syntax mimics natural English, allowing you to write concepts in fewer lines of code compared to languages like Java or C++.
+Interpreted: Python executes code line-by-line, which makes debugging faster since errors are reported as they occur.
+Multi-Paradigm: It supports various programming styles, including object-oriented, procedural, and functional programming.
+Dynamically Typed: You don't need to declare variable types (like int or string) explicitly; Python determines them at runtime.
+Batteries Included: It comes with a massive standard library that handles everything from file I/O to internet protocols out of the box
